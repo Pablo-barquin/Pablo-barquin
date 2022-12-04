@@ -1,7 +1,7 @@
 # <p align='center'>💻 Bienvenidos a mi perfil 💻 </p>
 ![My banner](https://user-images.githubusercontent.com/61793937/205507216-683c797c-415b-45a2-bc99-637cf21b3fe5.jpg)
 
-## 🙍‍♂️ Sobre mi
+## 👺 Sobre mi
 - 👋 Hola, me llamo Pablo Velicias Barquín, y este es mi Github personal. Aquí, subiré mis proyectos e ideas que me vayan surgiendo a lo largo de mi carrera laboral.
 - 👀 Soy una persona curiosa, con especial interes en todo lo relacionado con Visión Artificial y Machine Learning. Por este motivo, soy estudiante de Ingeniería Informática con mención en la rama de computación, siendo el TFG lo único que me queda para finalizar mis estudios. 
 - 🌱 En mis tiempos libres, intento mejorar mis skills como desarrollador, aprendiendo nuevas técnicas de programación y otros lenguajes.
