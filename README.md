@@ -26,7 +26,9 @@ Puede saber más sobre mi accediendo a mis redes sociales. Si deseas más inform
 <p float='left'>
   <a href="https://www.linkedin.com/in/pablo-velicias-barqu%C3%ADn-297997249/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61793937/205508130-1e0292b9-103a-421d-8677-8a5f4bdbdadd.png"  width=5% height=5%>
   <a href="mailto:veliciaspablo@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61793937/205508724-cb38f2a7-08fb-4f89-821e-d9ea2cb4bf48.png"  width=5% height=5%>
+  <a href="https://www.instagram.com/pablo_barquin/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61793937/206277163-bf748ec0-7212-4a56-9230-1966d4d2dce1.png"  width=5% height=5%>
   <a href="https://open.spotify.com/user/1176361281" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61793937/205509088-b85c7ce6-3d9b-47f6-a8df-c317926aa46c.png"  width=5% height=5%>
+
 </p>
     
 ## 🎵 Spotify
