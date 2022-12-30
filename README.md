@@ -17,6 +17,9 @@
 ## 🚀 Estadísticas
 ![Pablo-barquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-barquin&show_icons=true&theme=cobalt&count_private=true&hide=stars)
 
+![Codewarrs](https://www.codewars.com/users/Pablo-barquin/badges/large)
+
+
 ## 👨‍💻 Lenguajes de programación
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-barquin&langs_count=6&layout=compact&theme=cobalt)
 
