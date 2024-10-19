@@ -1,5 +1,5 @@
 # <p align='center'>💻 Bienvenidos a mi perfil 💻 </p>
-![My banner](https://user-images.githubusercontent.com/61793937/205507216-683c797c-415b-45a2-bc99-637cf21b3fe5.jpg)
+![My banner](https://github.com/user-attachments/assets/921c5bc0-44de-4f38-90a1-bcadd9a0fc41)
 
 ## 👺 Sobre mi
 - 👋 Hola, me llamo Pablo Velicias Barquín, y este es mi Github personal. Aquí, subiré mis proyectos e ideas que me vayan surgiendo a lo largo de mi carrera laboral.
